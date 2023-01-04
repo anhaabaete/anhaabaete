@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anhaabaete
 - 👀 I’m interested in Agile, innovation, robotics, data science, computer engineer
 - 🌱 I’m currently learning many things
-- 💞️ I’m looking to collaborate on NASA project
 - 📫 How to reach me anhaabaete@gmail.com +55 11 9 7070 1772
 
 <!---
